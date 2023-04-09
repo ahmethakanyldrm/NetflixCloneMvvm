@@ -38,3 +38,24 @@ https://developers.google.com/youtube/v3?hl=tr
 $ $ git clone https://github.com/ahmethakanyldrm/NetflixCloneMvvm
 ```
 
+## Home ##
+<p align="center">
+  <img width="300" height="650" src="https://github.com/ahmethakanyldrm/NetflixCloneMvvm/blob/main/Images/home1.png">
+   <img width="300" height="650" src="https://github.com/ahmethakanyldrm/NetflixCloneMvvm/blob/main/Images/hom2.png">
+    
+</p>
+
+## Coming Soon & Search ##
+<p align="center">
+  <img width="300" height="650" src="https://github.com/ahmethakanyldrm/NetflixCloneMvvm/blob/main/Images/upcoming.png">
+   <img width="300" height="650" src="https://github.com/ahmethakanyldrm/NetflixCloneMvvm/blob/main/Images/search.png">
+</p>
+
+## Downloads & Details ##
+<p align="center">
+  <img width="300" height="650" src="https://github.com/ahmethakanyldrm/NetflixCloneMvvm/blob/main/Images/download.png">
+    <img width="300" height="650" src="https://github.com/ahmethakanyldrm/NetflixCloneMvvm/blob/main/Images/download2.png">
+    <img width="300" height="650" src="https://github.com/ahmethakanyldrm/NetflixCloneMvvm/blob/main/Images/trailer.png">
+     <img width="300" height="650" src="https://github.com/ahmethakanyldrm/NetflixCloneMvvm/blob/main/Images/trailer2.png">
+</p>
+
